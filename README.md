@@ -36,7 +36,7 @@ After completing this assignment, you be able to effectively use
 
 ## Normal Mode
 
-1. Use the files`items.js` and `index.html`
+1. Use the files `items.js` and `index.html`
 2. Make sure to create a `main.js` file to put your code in
 3. Using the `items` variable, use `array.map()`, `array.reduce()`, `array.forEach`, and `array.filter()` to help you through the following questions.
 4. Using `innerHTML`, place your answers in the correct element in the `index.html` file.
