@@ -1,0 +1,37 @@
+html {box-sizing: border-box}
+*,*::before,*::after{box-sizing: inherit}
+
+body {
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: auto;
+    width: 900px;
+    border: solid 1px rgb(209, 213, 217);
+    padding: 50px;
+    word-wrap: break-word;
+}
+
+pre {
+    background-color: rgb(246, 248, 250);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    width: 800px;
+    overflow: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(195,195,195); 
+}
+
+.question {
+    width: 800px;
+    
+}
